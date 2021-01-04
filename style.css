@@ -140,7 +140,6 @@ input {
 }
 
 .campus_mainDiv {
-    float: left;
     width: 33.33%;
     padding: 5px;
     border: 1px solid #c7c7c7;
@@ -155,7 +154,28 @@ input {
     width: 100%
 }
 
-.campus_mainDiv h5,
-campus_mainDiv p {
-    margin-left: 20px;
+.new_li {
+    margin-top: 13px;
+}
+
+.new_li h4 {
+    border-bottom: 1px solid white;
+    padding: 8px;
+}
+
+.new_li img {
+    border-radius: 25px;
+}
+
+.new_li p {
+    margin-top: 10px;
+}
+
+#staarimg {
+    height:175px;
+    width:280px;
+}
+
+#new {
+    
 }
